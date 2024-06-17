@@ -28,7 +28,7 @@ html, body {
  }
 
  header >  h1 {
-    padding-top: 5em;
+    padding-top: 0.5em;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 9vw;
